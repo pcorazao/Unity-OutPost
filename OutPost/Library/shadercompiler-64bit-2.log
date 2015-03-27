@@ -19,3 +19,6 @@ Cmd: compileSnippet
   api=0 type=1 insize=4236 outsize=6 kw=POINT SHADOWS_CUBE SHADOWS_SOFT ok=1
 Cmd: compileSnippet
   api=0 type=0 insize=6545 outsize=7238 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON ok=1
+End of pipe
+
+Quitting shader compiler process
